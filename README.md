@@ -3,7 +3,10 @@
 ##
 
 - 🔭 Atualmente a procura de cargo Dev Junior
-- 🌱 Estudando Node.js
+- 🌱 Estudando [
+  'Node,js',
+  'Three js'
+  ]
 
 
 <div>
