@@ -3,9 +3,9 @@
 ##
 
 - 🔭 Atualmente a procura de cargo Dev Junior
-- 🌱 Estudando [
-  'Node,js',
-  'Three js'
+- 🌱 Estudando [ <br>
+  'Node,js', <br>
+  'Three js'<br>
   ]
 
 
