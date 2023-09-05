@@ -26,6 +26,7 @@
   <img align="center" alt="VUE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align='center' alt='SASS' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' />
   <img align="center" alt="VUE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align='center' alt='figma' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg' />
   <img align='right' width='200' height='200' alt='gif_alexsander'  src='https://im5.ezgif.com/tmp/ezgif-5-63d87bad53.gif' />
   
 </div>
