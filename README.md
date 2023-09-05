@@ -3,10 +3,7 @@
 ##
 
 - 🔭 Atualmente a procura de cargo Dev Junior
-- 👨‍🎓 ![#EE81C3](const) estudando = [
-  'nodejs',
-  'threejs'
-];
+- 👨‍🎓 Estudando Node.js e Three.js
 
 
 
