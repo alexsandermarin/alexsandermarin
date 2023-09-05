@@ -5,8 +5,6 @@
 - 🔭 Atualmente a procura de cargo Dev Junior
 - 👨‍🎓 Estudando Node.js e Three.js
 
-
-
 <div>
   
 <a href='https://github.com/alexsandermarin'>
