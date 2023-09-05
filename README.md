@@ -4,9 +4,9 @@
 
 - 🔭 Atualmente a procura de cargo Dev Junior
 - 🌱 Estudando [ <br>
-  'Node,js', <br>
-  'Three js'<br>
-  ]
+      'Node,js', <br>
+      'Three js'<br>
+     ];
 
 
 <div>
@@ -24,6 +24,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="VUE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align='center' alt='SASS' height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' />
   <img align="center" alt="VUE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align='right' width='200' height='200' alt='gif_alexsander'  src='https://im5.ezgif.com/tmp/ezgif-5-63d87bad53.gif' />
   
